@@ -8,6 +8,8 @@ of images of places that are confusing for both VPR and human-cognition. It cont
 scenes and low-informative frames. Most of the state-of-the-art VPR techniques struggle in catering for these confusing images
 as shown in our paper.
 
+The dataset is divided into 2 folders. Frame-to-frame correspondence is applicable across query and reference frames. Images 0-132 in each combined folder are confusing while images 133-209 are good frames.
+
 If you use this dataset in your work, please cite our work as below.
 
 @article{zaffar2018memorablemaps,
