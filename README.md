@@ -8,7 +8,7 @@ as shown in our paper.
 
 The dataset is divided into 2 folders. Frame-to-frame correspondence is applicable across query and reference frames. Images 0-132 in each combined folder are confusing while images 133-209 are good frames.
 
-If you use this dataset in your work, please cite our work as below.
+If you use this dataset in your work, please cite our paper as below.
 
 @article{zaffar2018memorablemaps,
   title={Memorable Maps: A Framework for Re-defining Places in Visual Place Recognition},
